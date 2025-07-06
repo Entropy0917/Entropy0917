@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 - 💻 I focus in Python and ML
 - 🏛️ Currently studying at Maryville College
 - 📫 My email is chris.vazquez@my.maryvillecollege.edu
-- ⛹️ Pronouns: He/Him
