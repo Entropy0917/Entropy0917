@@ -1,11 +1,11 @@
-## Hi there 👋
+## Hello fellow lovers of Computer Science 👋
 
 <!--
 **Entropy0917/Entropy0917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🤸 I'm working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+- 🤸 I am working on working on my [MLProject](https://github.com/Entropy0917/MLProject)
+- 🫠 I am learning [Unity](https://github.com/Entropy0917/LearningUnity)
+- 💻 I focus in Python and ML
+- 🏛️ Currently studying at Maryville College
+- 📫 My email is chris.vazquez@my.maryvillecollege.edu
+- ⛹️ Pronouns: He/Him
