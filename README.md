@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-- 🤸 I am working on working on my [MLProject](https://github.com/Entropy0917/MLProject)
-- 🫠 I am learning [Unity](https://github.com/Entropy0917/LearningUnity)
-- 💻 I focus in Python and ML
-- 🏛️ Currently studying at Maryville College
-- 📫 My email is chris.vazquez@my.maryvillecollege.edu
+-  I am working on working on my [MLProject](https://github.com/Entropy0917/MLProject)
+-  I am learning [Unity](https://github.com/Entropy0917/LearningUnity)
+-  I focus in Python and ML
+-  Currently studying at Maryville College
+-  My email is chris.vazquez@my.maryvillecollege.edu
 
 
 
